@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://adjtranslations.com/sitemap.xml
